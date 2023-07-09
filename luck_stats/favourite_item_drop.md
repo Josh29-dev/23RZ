@@ -1,5 +1,8 @@
 # The reward and chance rate for finding Julius's favourite item:
 
+### Line for receiving his favourite item for the first time:
+> "Oh fuck yeah, this is my favourite thing ever. I think I've fallen in love with you, yank..."
+
 |Item | %Rarity%|
 |------|---------|
 | Money | 95% |
